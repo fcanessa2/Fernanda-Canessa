@@ -1,0 +1,22 @@
+    1  git clone https://github.com/fcanessa2/Fernanda-Canessa
+    2  cd Fernanda-Canessa
+    3  ls
+    4  git add L0.txt
+    5  git commit -m "Subir primer txt"
+    6  git config --global fcanessa2@uc.cl
+    7  git config --global
+    8  ls
+    9  git push
+   10  git add *
+   11  git commit -m "Subir primer archivo"
+   12  git config --globl user.email"fcanessa2@uc.cl"
+   13  git config --global user.email "fcanessa2@uc.cl"
+   14  git config --global user.name "fcanessa2"
+   15  git add *
+   16  git commit -m "Subir primer archivo"
+   17  git push
+   18  git pull
+   19  doskey/history
+   20  doskey
+   21  history
+
